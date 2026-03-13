@@ -50,6 +50,3 @@ Potential applications include:
 - Environmental monitoring
 - Smart city development
 - Land use analysis
-hor
-
-Hussain Sabuwala
