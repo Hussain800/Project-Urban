@@ -155,12 +155,12 @@ https://hussainsabuwala04.users.earthengine.app/view/project-urban
 
 ## Tech Stack
 
-- Google Earth Engine  
-- Python (PyTorch, scikit-learn)  
-- Random Forest  
-- ResNet-18 (CNN)  
-- Sentinel-2 imagery  
-- SRTM elevation data  
+- Google Earth Engine (JavaScript API)
+- Python (data preprocessing)
+- Random Forest
+- Sentinel-2 imagery
+- SRTM elevation data
+-  ResNet-18 (CNN) 
 
 ## Key Insights
 
